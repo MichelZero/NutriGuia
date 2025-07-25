@@ -20,3 +20,8 @@ Onde o usuário visualiza sua evolução. Essencial para motivação.
 | [Início] [Progresso] [Sugestões] [Perfil] |
 +-------------------------------------------+
 
+### Barra de Navegação:
+* [Início]: Esta tela.
+* [Progresso]: Leva para a Tela 5.
+* [Sugestões]: Leva para a Tela 6.
+* [Perfil]: Leva para a Tela 7.
