@@ -1,4 +1,5 @@
 # Tela 2: Onboarding (Configuração Inicial)
+
 * Aparece apenas no primeiro acesso. 
 * É aqui que a mágica da personalização acontece. 
 * Idealmente, é um fluxo de 2-3 passos.
